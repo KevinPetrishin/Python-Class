@@ -701,6 +701,8 @@
 	<string>2BBBB45B-1E1D-4C5A-8FE9-F2567F097B2F</string>
 	<key>HapticFeedbackForEsc</key>
 	<false/>
+	<key>HideTabNumber</key>
+	<false/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
 	<key>New Bookmarks</key>
