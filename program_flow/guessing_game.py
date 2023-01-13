@@ -1,7 +1,7 @@
-answer = lol
+answer = 5
 
 print("Please guess a number between 1 and 10")
-guess = str(input())
+guess = int(input())
 
 if guess == answer:
     print("You got it first time")
@@ -10,7 +10,7 @@ else:
         print("Please guess higher")
     else:   # guess must be greater than answer
         print("Please guess lower")
-    guess = str(input())
+    guess = int(input())
     if guess == answer:
         print("Well done, you guessed it")
     else:
