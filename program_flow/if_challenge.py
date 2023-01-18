@@ -5,6 +5,6 @@ print("Hello {}. Please enter your age".format(name))
 age = int(input())
 
 if 18 < age <= 30:
-    print("Welcome to the holiday my {}".format(name))
+    print("Welcome to the holiday, {}".format(name))
 else:
     print("Sucks to suck you sucker")
