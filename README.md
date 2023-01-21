@@ -1,2 +1,2 @@
 # Python
-random python code from my class
+All python code for my python class
