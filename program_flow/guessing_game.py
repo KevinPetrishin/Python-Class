@@ -8,6 +8,8 @@ print("Please guess a number between 1 and {}: ".format(highest))
 while guess != answer:
     guess = int(input())
 
+    if guess == 0:
+        break
     if guess == answer:
         print("Well done, you guessed it")
         break
