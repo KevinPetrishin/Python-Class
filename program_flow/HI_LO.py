@@ -23,4 +23,5 @@ while True:
     else:
         print("Please enter H, L, or C")
 
-    guesses = guesses + 1
+    # guesses = guesses + 1
+    guesses += 1
