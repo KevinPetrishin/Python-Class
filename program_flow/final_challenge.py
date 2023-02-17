@@ -68,7 +68,6 @@ while answer in range(len(options)):
                   "\n1. ice"
                   "\n2. milk"
                   "\n3. protein powder"
-                  "\n4. lettuce"
                   "\n5. oats"
                   "\n6. peanut butter"
                   "\n7. honey"
